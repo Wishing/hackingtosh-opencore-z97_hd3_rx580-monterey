@@ -1,0 +1,1 @@
+# hackingtosh-opencore-z97_hd3_rx580-monterey
